@@ -1,5 +1,5 @@
 # Technology Stack
-  The different technologies are visualized if you are click on them the information about the current technology is  showing    
+  The different technologies are visualized if you click on current one  the information about this technology will showing    
 
 ## Getting Started
     Clone the project by typing in the Terminal or Command promt 
